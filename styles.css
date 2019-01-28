@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto Condensed';
+    font-size: 1.2em;
+    background-color: #eee;
+}
+
+h1 {
+    color: #8e4f78;
+    font-weight: 700;
+    font-size: 1.4em;
+    margin-bottom: 0;
+    margin-top: 1em;
+}
+
+a, a:focus, a:hover, a:active, input:focus, button:focus {
+    outline: 0; }
+
+a {
+    color: #739F3E; }
+
+.logo {
+    width: 275px;
+}
